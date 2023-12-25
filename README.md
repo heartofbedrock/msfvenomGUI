@@ -18,8 +18,8 @@ Demo video: [here](https://youtu.be/Jq92SgiYmuE)
 ## Usage
 
 ```bash
-# install msfvenomgui with pip
-pip install msfvenomgui
+# install msfvenomgui with pip3
+pip3 install msfvenomgui
 
 # execute msfvenomgui
 msfvenomgui
